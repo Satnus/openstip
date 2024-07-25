@@ -4,9 +4,9 @@ Openstip is a community effort to complete support for the stip 2 in 1 (stip lap
 
 ## Distros tested
 
-- Linux mint (cinnamon): ![[https://github.com/Satnus/openstip/blob/main/stip-screenshots/mint.png]]
-- Fedora (gnome): **sound works flawlessly** ![[https://github.com/Satnus/openstip/blob/main/stip-screenshots/fedora.png]]
-- Manjaro (KDE): ![[https://github.com/Satnus/openstip/blob/main/stip-screenshots/manjaro.png]]
+- Linux mint (cinnamon): ![](https://github.com/Satnus/openstip/blob/main/stip-screenshots/mint.png)
+- Fedora (gnome): **sound works flawlessly** ![](https://github.com/Satnus/openstip/blob/main/stip-screenshots/fedora.png)
+- Manjaro (KDE): ![](https://github.com/Satnus/openstip/blob/main/stip-screenshots/manjaro.png)
 
 ## Existing problems
 
